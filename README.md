@@ -1,5 +1,5 @@
 # NLP--Cleaning--IP-adresses
-# Project is confidential script is not i am sharing A snapsot of scirpt 
+## Project is confidential script is not i am sharing A snapsot of scirpt 
 
 <!-- PROJECT LOGO -->
 <!-- PROJECT LOGO -->
@@ -8,7 +8,7 @@
   <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
     <img src="https://github.com/Zeeshanahmad4/ML--RMSE-with-graphs/blob/master/digital-brain-ai-machine-learning-artificial-intelligence-512.png" alt="Logo" width="110" height="130">
   </a>
-  <h3 align="center">Machine learning with Data Visualization</h3>
+  <h3 align="center">NLP--Cleaning--IP-adresses</h3>
 </p>
 
 
@@ -29,7 +29,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Product Name Screen Shot](https://github.com/Zeeshanahmad4/BOT--Hydrafacial/blob/master/main1.jpg)
+![Product Name Screen Shot](https://github.com/Zeeshanahmad4/NLP--Cleaning--IP-adresses/blob/master/jasdkjas.JPG)
 Cleaning text data in csv Data contiins csv multiple value of IP VALUES
 
 <!-- CONTACT -->
